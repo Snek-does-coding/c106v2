@@ -1,0 +1,13 @@
+
+
+body{
+    background-image: linear-gradient(60deg, #87CEEB, #ADD8E6);
+  }
+
+#start{
+  border-color:black;
+}
+
+img:hover{
+  border-radius:140px;
+}
